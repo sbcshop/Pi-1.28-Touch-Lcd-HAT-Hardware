@@ -12,7 +12,7 @@ This beautiful device can be used standalone or can be used in smartwatches or a
 
 ## Documentation
 
-* [Pi-1.28-TOUCH-LCD-HAT Hardware](https://github.com/sbcshop/Pi-1.28-TOUCH-LCD-HAT-Hardware)
+* [Pi-1.28-TOUCH-LCD-HAT Software](https://github.com/sbcshop/Pi-1.28-Touch-Lcd-HAT-Software)
 * [Getting Started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 * [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
 * [Raspberry Pi Datasheet](https://www.raspberrypi.com/documentation/computers/compute-module.html)
