@@ -8,8 +8,8 @@ This beautiful device can be used standalone or can be used in smartwatches or a
 
 ## Repository Contents
 
-* [**/Design Data**](https://github.com/sbcshop/SquaryPi-Hardware/tree/main/Disign%20Data) - This directory contains Schematic and Dimension files
-* [**/Mechanical Data**](https://github.com/sbcshop/SquaryPi-Hardware/tree/main/Mechanical%20Data) - This directory contains 3D and STEP files
+* [**/Design Data**](https://github.com/sbcshop/Pi-1.28-Touch-Lcd-HAT-Hardware/tree/main/Design%20Data) - This directory contains Schematic and Dimension files
+* [**/Mechanical Data**](https://github.com/sbcshop/Pi-1.28-Touch-Lcd-HAT-Hardware/tree/main/Mechanical%20Data) - This directory contains 3D and STEP files
 
 ## Documentation
 
