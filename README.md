@@ -8,7 +8,6 @@ This beautiful device can be used standalone or can be used in smartwatches or a
 
 ## Repository Contents
 
-* [**/Documents**](https://github.com/sbcshop/SquaryPi-Hardware/tree/main/Documents) - This directory contains Datasheets of the components
 * [**/Design Data**](https://github.com/sbcshop/SquaryPi-Hardware/tree/main/Disign%20Data) - This directory contains Schematic and Dimension files
 * [**/Mechanical Data**](https://github.com/sbcshop/SquaryPi-Hardware/tree/main/Mechanical%20Data) - This directory contains 3D and STEP files
 
