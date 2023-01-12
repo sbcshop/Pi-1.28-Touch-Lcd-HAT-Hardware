@@ -29,7 +29,7 @@ This beautiful device can be used standalone or can be used in smartwatches or a
 
 ## Product License
 
-This is ***open source*** product. Kindly check LICENSE.md file for more informnation.
+This is ***open source*** product. Kindly check LICENSE.md file for more information.
 
 Please contact support@sb-components.co.uk for technical support.
 <p align="center">
