@@ -1,6 +1,6 @@
 # 1.28-LCD-HAT-for-Raspberry-Pi-Hardware
 
-<img src ="https://cdn.shopify.com/s/files/1/1217/2104/files/1.28.jpg?v=1670306776" />
+<img src ="https://github.com/sbcshop/Pi-1.28-Touch-Lcd-HAT-Software/blob/main/Image/1.28%20banner.jpg" />
 
 Round LCD HAT for Raspberry a luxurious visual experience while accessing the device. This LCD HAT has three components – a Full Touch LCD Display, Touch Panel, and a Joystick to move around with various actions. The Full Touch HD display gives a resolution of 240 x 240 pixels resolution. This 1.28’’ color IPS TFT display panel has a GC9A01A controller, and panorama view angle. It has an optional Capacitive Touch Panel with the excellent display quality.
 
